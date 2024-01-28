@@ -1,9 +1,12 @@
+import './Footer.css'
+
 function Footer() {
   return (
-    <div className="bg-secondary">
-      <h6 className="text-light text-center">Contact info</h6>
-      <p className="text-light text-center">
-        Mobile phone: 440-219-2467
+    <div className="footer">
+      <p className="contact">
+        <b>Contact info</b>
+        <br></br>
+        Telephone: 440-219-2467
         <br></br>
         Email: tonyn1999@outlook.com
         <br></br>
@@ -12,7 +15,7 @@ function Footer() {
 
       <br></br>
 
-      <p className="text-light text-center">
+      <p className="copyright">
         © 2024 Young disciples Saint Louis. All rights reserved.
       </p>
     </div>

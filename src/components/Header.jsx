@@ -17,7 +17,7 @@ function Header() {
             <Nav.Link>Bible studies</Nav.Link>
             <Nav.Link>Services</Nav.Link>
             <Nav.Link>Grace sharing</Nav.Link>
-            <Nav.Link>About us</Nav.Link>
+            <Nav.Link>Contact us</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
